@@ -7,7 +7,7 @@
   Andrew McGregor, David Tench, and Hoa T. Vu.
 
 * Streaming Algorithms for Maximum Satisfiability. **In submission**.  
-  Hoa T. Vu. [[local-copy]](/files/streaming-max-sat.pdf).  
+  Hoa T. Vu. [[local-copy]](streaming-max-sat.pdf).  
 
 * Distributed Dense Subgraph Detection and Low Outdegree Orientation. **DISC 2020**.  
   Hsin-Hao Su and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1907.12443).
@@ -16,10 +16,10 @@
   Hsin-Hao Su and Hoa T. Vu. [[conf-version]](disc-2019.pdf), [[arXiv]](https://arxiv.org/abs/1908.00236).
 
 * Towards the Locality of Vizing's Theorem. **STOC 2019**.  
-  Hsin-Hao Su and Hoa T. Vu. [[conf-version]](/files/stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
+  Hsin-Hao Su and Hoa T. Vu. [[conf-version]](stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479).
 
 * Finding Subcube Heavy Hitters in Analytics Data Streams. **WWW 2018**.  
-  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu. and Yikun Xian. [[conf-version]](/files/www18.pdf), [[arXiv]](https://arxiv.org/abs/1708.05159).
+  Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu. and Yikun Xian. [[conf-version]](www18.pdf), [[arXiv]](https://arxiv.org/abs/1708.05159).
 
 * Better Streaming Algorithms for the Maximum Coverage Problem. **ICDT 2017 & Theory of Computing Systems**.  
   Andrew McGregor, and Hoa T. Vu. [[arXiv]](https://arxiv.org/abs/1610.06199).
