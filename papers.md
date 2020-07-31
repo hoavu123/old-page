@@ -42,5 +42,5 @@
 
 ## Thesis 
 
-Data Stream Algorithms for Large Graphs and High Dimensional Data. [ScholarWorks](https://scholarworks.umass.edu/dissertations_2/1404/).
+* Data Stream Algorithms for Large Graphs and High Dimensional Data. [ScholarWorks](https://scholarworks.umass.edu/dissertations_2/1404/).
 
