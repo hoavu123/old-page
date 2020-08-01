@@ -4,19 +4,19 @@ Author names are in **alphabetical order** per tradicion of theoretical computer
 
 * On the Locality of Approximate Nash-Williams Forest Decomposition   
   David Harris, Hsin-Hao Su, and Hoa T. Vu  
-  *In submission*
+  In submission
 
 * Maximum Coverage in the Data Stream Model: Parameterized and Generalized 
   Andrew McGregor, David Tench, and Hoa T. Vu  
-  *In submission*  
+  In submission  
 
 * Streaming Algorithms for Maximum Satisfiability ([[local-copy]](streaming-max-sat.pdf))  
   Hoa T. Vu 
-  *In submission* 
+  In submission 
 
 * Distributed Dense Subgraph Detection and Low Outdegree Orientation ([[arXiv]](https://arxiv.org/abs/1907.12443))  
   Hsin-Hao Su and Hoa T. Vu  
-  *In the 34th Intl. Symposium on Distributed Computing (DISC 2020)*  
+  In the 34th Intl. Symposium on Distributed Computing (DISC 2020)  
 
 * Distributed Data Summarization in Well-Connected Networks ([[conf-version]](disc-2019.pdf), [[arXiv]](https://arxiv.org/abs/1908.00236))  
   Hsin-Hao Su and Hoa T. Vu   
