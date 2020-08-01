@@ -10,8 +10,8 @@ Author names are in **alphabetical order** per tradicion of theoretical computer
   Andrew McGregor, David Tench, and Hoa T. Vu  
   *In submission*  
 
-* Streaming Algorithms for Maximum Satisfiability   
-  Hoa T. Vu. [[local-copy]](streaming-max-sat.pdf)  
+* Streaming Algorithms for Maximum Satisfiability ([[local-copy]](streaming-max-sat.pdf))  
+  Hoa T. Vu 
   *In submission* 
 
 * Distributed Dense Subgraph Detection and Low Outdegree Orientation ([[arXiv]](https://arxiv.org/abs/1907.12443))  
@@ -22,7 +22,7 @@ Author names are in **alphabetical order** per tradicion of theoretical computer
   Hsin-Hao Su and Hoa T. Vu   
   *In the 33rd Intl. Symposium on Distributed Computing (DISC 2019)*
 
-* Towards the Locality of Vizing's Theorem ([[conf-version]](stoc19.pdf),[[arXiv]](https://arxiv.org/abs/1901.00479))    
+* Towards the Locality of Vizing's Theorem ([[conf-version]](stoc19.pdf), [[arXiv]](https://arxiv.org/abs/1901.00479))    
   Hsin-Hao Su and Hoa T. Vu   
   *In the 51st ACM Symposium on Theory of Computing (STOC 2019)*
   
@@ -32,7 +32,7 @@ Author names are in **alphabetical order** per tradicion of theoretical computer
   *In the Web Conference (WWW 2018)*
 
 * Better Streaming Algorithms for the Maximum Coverage Problem ([[arXiv]](https://arxiv.org/abs/1610.06199))  
-  Andrew McGregor, and Hoa T. Vu
+  Andrew McGregor, and Hoa T. Vu  
   *In the 20th Intl.  Conference on Database Theory (ICDT 2017)  & Theory of Computing Systems*
 
 
