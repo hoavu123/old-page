@@ -54,7 +54,8 @@ Author names are in **alphabetical order** per tradicion of theoretical computer
 
 * Manifold Warping: Manifold Alignment over Time ([[conf-version]](aaai12.pdf))  
   Hoa T. Vu, CJ Carey, and Sridhar Mahadevan  
-  *[[conf-version]](aaai12.pdf)*
+  *In the 26th AAAI Conference on Artificial Intelligence (AAAI 2012)*
+
 
 
 ## Thesis 
